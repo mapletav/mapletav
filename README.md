@@ -18,3 +18,4 @@ Know a little but not much
 <br><img src="https://img.shields.io/badge/Windows-Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/Intel-Xeon(R)_Gold_5118_×2-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <br>: Just wanna try these icons :)
 ## Connect
+> cifc@qq.com
